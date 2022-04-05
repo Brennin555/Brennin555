@@ -40,6 +40,9 @@ Here are some ideas to get you started:
 <div align="center">
  <img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brennin555&locale=pt-br&hide=SWIG&theme=vision-friendly-dark"
 </div>
+<div>  
+<a href = "https://github.com/Brennin555/MeuPortfolio" target="_blank"> <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Brennin555&repo=MeuPortfolio&theme=vision-friendly-dark"></a> 
+</div>   
   
 <div>
  <h3>Contatos:<h3>
