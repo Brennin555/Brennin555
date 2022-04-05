@@ -1,4 +1,8 @@
-### Hi there 👋
+### Brenno da Rosa (Brennin555)
+  <br>Opaa! Bem vindo ao meu perfil!
+  <br> Me chamo Brenno da Rosa e estou aqui tentando estar sempre me aprimorando
+  <br> Cursando Engenharia de Computação na Universidade Federal de Itajubá 
+
 
 <!--
 **Brennin555/Brennin555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+<div align="center">
+  <a href="https://github.com/Brennin555">
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brennin555&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+-->  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brennin555&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<div>
+   <h3>Contatos:<h3>
+   
+   <a href="https://instagram.com/brennin_555" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-      badge&logo=instagram&logoColor=white" img height="40em" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/brenno-da-rosa-2091271aa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" img height="40em" target="_blank"></a> 
+ 
+ <!-- ![Snake animation](https://github.com/Brennin555/Brennin555/blob/output/github-contribution-grid-snake.svg)-->  
+</div>
