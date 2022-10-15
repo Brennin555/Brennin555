@@ -42,7 +42,17 @@ Here are some ideas to get you started:
 </div>
 <div>  
 <a href = "https://github.com/Brennin555/MeuPortfolio" target="_blank"> <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Brennin555&repo=MeuPortfolio&theme=vision-friendly-dark"></a> 
+</div>
+  
+<div>  
+<a href = "https://github.com/Brennin555/rastreadorDeCodigo-Ionic" target="_blank"> <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Brennin555&repo=rastreadorDeCodigo-Ionic&theme=vision-friendly-dark"></a> 
 </div>   
+  
+<div>  
+<a href = "https://github.com/Brennin555/Aplicativo-Lista-com-Autentiacao-Firebase" target="_blank"> <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Brennin555&repo=Aplicativo-Lista-com-Autentiacao-Firebase&theme=vision-friendly-dark"></a> 
+</div>   
+  
+  
   
 <div>
  <h3>Contatos:<h3>
